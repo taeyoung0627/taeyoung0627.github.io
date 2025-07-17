@@ -1,0 +1,12 @@
+
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "com.thehyoosik.platform",
+      "package_name": "com.thehyoosik.platform",
+      "sha256_cert_fingerprints":
+      ["95:6C:4A:5A:AC:82:BD:F9:AA:D2:6F:7C:E2:75:63:48:81:EB:42:93:D9:8E:98:5F:69:6B:67:53:A2:E4:10:F2"]
+    }
+  }
+]
