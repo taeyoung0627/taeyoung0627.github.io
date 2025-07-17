@@ -3,7 +3,7 @@
   {
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
-      "namespace": "com.thehyoosik.platform",
+      "namespace": "android_app",
       "package_name": "com.thehyoosik.platform",
       "sha256_cert_fingerprints":
       ["26:E0:9E:EE:69:A3:17:2D:EA:4C:02:E2:D2:BE:EE:17:F3:96:B8:DF:7E:D3:88:71:7B:46:C6:A5:BD:A8:A9:D8"]
